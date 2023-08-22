@@ -1,6 +1,6 @@
 /* CSS RESET, REINICIO DE CSS*/
 /* AL SELECTOR * SE LE CONOCE COMO SELECTOR UNIVERSAL*/
-* {
+ * {
   box-sizing: border-box;
   margin: 0;
   padding: 0; 
